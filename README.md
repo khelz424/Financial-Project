@@ -109,7 +109,7 @@ Snapshot Of Visual:
 ![Screenshot (27)](https://github.com/khelz424/Financial-Project/assets/141655852/1f09855f-cf48-42fa-8a1f-b9e001193112)
 
 
-VISUAL 1: Sum Of Discounts by Product 
+VISUAL 4: Sum Of Discounts by Product 
 
 I chose a stacked column chart that provides information about the sum of discounts each product has done.
 
@@ -125,3 +125,30 @@ SLICER 2: Discount Band
 
 I included a filter which will enable a user to filter based off the discount band they are interested in. 
 
+
+VISUAL 5: Price Analysis
+
+The visuals focus on the comparison of the avergae manufacturing and sale price for each poduct as well as it's mark up
+
+
+Snapshot Of Visual:
+
+![Screenshot (28)](https://github.com/khelz424/Financial-Project/assets/141655852/f37c1f02-3d14-4363-ab02-78386075c1fa)
+
+
+VISUAL 1: Average Of Manufacturing and Sale Price by Product
+
+I chose a clustered column chart to provide a comparison of the avaerage manufacturing and sales price.
+
+VISUAL 2: Mark Up by Product
+
+I chose a line chart to showcase information about the mark up of each product.
+
+
+SLICER 1: Year,Quarter,Month
+
+I included a filter which will enable a user to filter through the particular date they are interested in.
+
+SLICER 2: Country
+
+I included a filter which will enable a user to filter the visuals based off the country they are interested in.
