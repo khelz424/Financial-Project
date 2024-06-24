@@ -70,7 +70,7 @@ Overall, this visual will allow users to understand the overall performance of t
 
 VISUAL 2: Segment Analysis
 
-I included a pie chart to provide information about the sales per country based off the different segments.
+I chose a pie chart to provide information about the sales per country based off the different segments.
 
 Snapshot Of Visual:
 
@@ -81,4 +81,20 @@ Snapshot Of Visual:
 SLICER: Segment
 
 I included a slicer where a user will be able to filter the visual based off the segment they are interested in.
-   
+
+
+VISUAL 3: Profit Analysis
+
+I chose a treemap to represent the information regarding the sum of the profit per country.
+
+
+Snapshot Of Visual:
+
+
+![Screenshot (26)](https://github.com/khelz424/Financial-Project/assets/141655852/524a12ec-acff-4e81-b764-48341a1d46bc)
+
+
+SLICER: Year,Quarter,Month
+
+I included a filter whcih will enable a user to filter through the particular date they are interested in.
+
