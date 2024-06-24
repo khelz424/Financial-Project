@@ -41,15 +41,15 @@ STEPS FOLLOWED
 
 VISUAL 1: Summary Report
 
-This visual presents a summary of the cost of goods sold, gross sales, and profit for each country overall and based off the different products.
+The visuals provided showcase a summary of the cost of goods sold, gross sales, and profit for each country overall and based off the different products.
 
 VISUAL 1.1: Sum Of COGS By Country
 
-This visual provides a summary of the sum of cost of goods sold per country.
+I chose a donut chart whcih provides a summary of the sum of cost of goods sold per country.
 
 VISUAL 1.2: Sum Of Gross Sales, and Sum Of Profit By Country
 
-This visual provides information about the comparison between the gross sales and profit per country.
+I chose a clustered column chart as the visual which provides information about the comparison between the gross sales and profit per country.
 
 
 Snapshot Of Visual:
@@ -66,4 +66,19 @@ SLICER 2: Product
 I included a second slicer to enable a user to filter the visuals based off the product they are interested in.
 
 Overall, this visual will allow users to understand the overall performance of the sales and costs that each country achieved during 2013 and 2014.
+
+
+VISUAL 2: Segment Analysis
+
+I included a pie chart to provide information about the sales per country based off the different segments.
+
+Snapshot Of Visual:
+
+
+![Screenshot (20)](https://github.com/khelz424/Financial-Project/assets/141655852/1419cd68-d038-4650-a1ef-a3c6c9f70344)
+
+
+SLICER: Segment
+
+I included a slicer where a user will be able to filter the visual based off the segment they are interested in.
    
