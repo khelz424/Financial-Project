@@ -29,13 +29,25 @@ STEPS FOLLOWED
    
    3.2. Copied the date column from the Financials table
    
-   3.3. Clicked on calculated column to showcase the dates from the first of the month to the last day of the month for both years
+   3.3. Clicked on calculated column to showcase the dates from the first of the month to the last day of the month 
+        for both years
 
 
     Snapshot of Calculated Column:
 
 
    ![Screenshot (25)](https://github.com/khelz424/Financial-Project/assets/141655852/5bf91776-ded5-435b-8390-b74b66e9f38b)
+
+
+VISUAL 1: Summary Report
+This visual presents a summary of the cost of goods sold, gross sales, and profit for each country overall and based off the different products.
+
+Snapshot Of Visual:
+
+
+![Screenshot (19)](https://github.com/khelz424/Financial-Project/assets/141655852/a32c5771-f159-487f-b3a3-5caaa2707fd2)
+
+
 
 
 
