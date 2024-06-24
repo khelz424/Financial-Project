@@ -40,15 +40,30 @@ STEPS FOLLOWED
 
 
 VISUAL 1: Summary Report
+
 This visual presents a summary of the cost of goods sold, gross sales, and profit for each country overall and based off the different products.
+
+VISUAL 1.1: Sum Of COGS By Country
+
+This visual provides a summary of the sum of cost of goods sold per country.
+
+VISUAL 1.2: Sum Of Gross Sales, and Sum Of Profit By Country
+
+This visual provides information about the comparison between the gross sales and profit per country.
+
 
 Snapshot Of Visual:
 
 
 ![Screenshot (19)](https://github.com/khelz424/Financial-Project/assets/141655852/a32c5771-f159-487f-b3a3-5caaa2707fd2)
 
+SLICER 1: Year,Quarter,Month
 
+I included a slicer where a user will be able to filter the visuals based off the Year,Quarter, and month.
 
+SLICER 2: Product
 
+I included a second slicer to enable a user to filter the visuals based off the product they are interested in.
 
+Overall, this visual will allow users to understand the overall performance of the sales and costs that each country achieved during 2013 and 2014.
    
