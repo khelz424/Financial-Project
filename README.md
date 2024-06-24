@@ -98,3 +98,30 @@ SLICER: Year,Quarter,Month
 
 I included a filter whcih will enable a user to filter through the particular date they are interested in.
 
+
+VISUAL 4: Discount Analysis
+
+The visuals provide information about the discount of each product based off the discount band in correlation to their gross sales.
+
+Snapshot Of Visual:
+
+
+![Screenshot (27)](https://github.com/khelz424/Financial-Project/assets/141655852/1f09855f-cf48-42fa-8a1f-b9e001193112)
+
+
+VISUAL 1: Sum Of Discounts by Product 
+
+I chose a stacked column chart that provides information about the sum of discounts each product has done.
+
+VISUAL 2: Sum Of Gross Sales by Product
+
+I chose a line chart to display the the sum of gross sales by product.
+
+SLICER 1: Year,Quarter,Month
+
+I included a filter which will enable a user to filter through the particular date they are interested in.
+
+SLICER 2: Discount Band
+
+I included a filter which will enable a user to filter based off the discount band they are interested in. 
+
