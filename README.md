@@ -49,7 +49,7 @@ I chose a donut chart whcih provides a summary of the sum of cost of goods sold 
 
 VISUAL 1.2: Sum Of Gross Sales, and Sum Of Profit By Country
 
-I chose a clustered column chart as the visual which provides information about the comparison between the gross sales and profit per country.
+I chose a Clustered Column chart as the visual which provides information about the comparison between the gross sales and profit per country.
 
 
 Snapshot Of Visual:
@@ -70,7 +70,7 @@ Overall, this visual will allow users to understand the overall performance of t
 
 VISUAL 2: Segment Analysis
 
-I chose a pie chart to provide information about the sales per country based off the different segments.
+I chose a Pie chart to provide information about the sales per country based off the different segments.
 
 Snapshot Of Visual:
 
@@ -83,15 +83,18 @@ SLICER: Segment
 I included a slicer where a user will be able to filter the visual based off the segment they are interested in.
 
 
+
+
 VISUAL 3: Profit Analysis
 
-I chose a treemap to represent the information regarding the sum of the profit per country.
+I chose a Treemap to represent the information regarding the sum of the profit per country.
 
 
 Snapshot Of Visual:
 
 
-![Screenshot (26)](https://github.com/khelz424/Financial-Project/assets/141655852/524a12ec-acff-4e81-b764-48341a1d46bc)
+![Screenshot (26)](https://github.com/khelz424/Financial-Project/assets/141655852/90d47604-7d87-44a3-bbcc-675af0759242)
+
 
 
 SLICER: Year,Quarter,Month
@@ -106,16 +109,17 @@ The visuals provide information about the discount of each product based off the
 Snapshot Of Visual:
 
 
-![Screenshot (27)](https://github.com/khelz424/Financial-Project/assets/141655852/1f09855f-cf48-42fa-8a1f-b9e001193112)
+![Screenshot (29)](https://github.com/khelz424/Financial-Project/assets/141655852/edb228d2-f222-4bc5-b822-08f55cb58621)
 
 
-VISUAL 4: Sum Of Discounts by Product 
 
-I chose a stacked column chart that provides information about the sum of discounts each product has done.
+VISUAL 4.1: Sum Of Discounts by Product 
 
-VISUAL 2: Sum Of Gross Sales by Product
+I chose a Stacked Column chart that provides information about the sum of discounts each product has done.
 
-I chose a line chart to display the the sum of gross sales by product.
+VISUAL 4.2: Sum Of Gross Sales by Product
+
+I chose a Line chart to display the the sum of gross sales by product.
 
 SLICER 1: Year,Quarter,Month
 
@@ -136,13 +140,13 @@ Snapshot Of Visual:
 ![Screenshot (28)](https://github.com/khelz424/Financial-Project/assets/141655852/f37c1f02-3d14-4363-ab02-78386075c1fa)
 
 
-VISUAL 1: Average Of Manufacturing and Sale Price by Product
+VISUAL 5.1: Average Of Manufacturing and Sale Price by Product
 
-I chose a clustered column chart to provide a comparison of the avaerage manufacturing and sales price.
+I chose a Clustered Column chart to provide a comparison of the avaerage manufacturing and sales price.
 
-VISUAL 2: Mark Up by Product
+VISUAL 5.2: Mark Up by Product
 
-I chose a line chart to showcase information about the mark up of each product.
+I chose a Line chart to showcase information about the mark up of each product.
 
 
 SLICER 1: Year,Quarter,Month
