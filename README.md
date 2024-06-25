@@ -156,3 +156,7 @@ I included a filter which will enable a user to filter through the particular da
 SLICER 2: Country
 
 I included a filter which will enable a user to filter the visuals based off the country they are interested in.
+
+
+CONCLUSION
+In conclusion, this data analysis project has analysed and explored ways to utilise the data to create new columns. Which has lead to creating visuals with useful insights that users can make informative decisions about the future performance of their products.
