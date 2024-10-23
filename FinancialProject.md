@@ -2,7 +2,7 @@ Financial Project
 
 PROJECT OVERVIEW
 
-This data analysis project provides insights about the financial performance of specific products in different countries. Focusing on the summary report,the Country and Product analysis reports for the 2013 and 2014 period. These insights can be used to make recommendations on how to maximise their revenue in the next financial period.
+This data analysis project provides insights about the financial performance of specific products in different countries. Focusing on the Summary,Country and Product analysis reports for the 2013 and 2014 period. These insights can be used to make recommendations on how to maximise their revenue in the next financial period.
 The data was a financial excel workbook file. It included information about the different products performance in the following countries: USA,Germany,France, Canada, and Mexico.
 
 Below is a list of visuals I created: 
